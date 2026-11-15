@@ -1,0 +1,30 @@
+[
+ {
+  "id": 170101,
+  "name": "HakuChinaDress",
+  "displayName": "Haku（旗袍）",
+  "weaponType": "",
+  "element": "Model1",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/HakuQipao",
+  "image": "Covers/HakuQipao.png",
+  "pmx": "TDA Qipao Haku [R18] fix.Pmx",
+  "base": "https://carlutic.github.io/model1/"
+ },
+ {
+  "id": 170102,
+  "name": "Illustrious",
+  "displayName": "光辉（呼吸引擎）",
+  "weaponType": "",
+  "element": "Model1",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/IllustriousBreath",
+  "image": "Covers/IllustriousBreath.png",
+  "pmx": "Tda HMS illustrious China Dress Ver1.00 [R18] ver.呼吸引擎.pmx",
+  "base": "https://carlutic.github.io/model1/"
+ }
+]
