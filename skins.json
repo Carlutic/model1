@@ -9,7 +9,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/HakuQipao",
-  "image": "Covers/HakuQipao.png",
+  "image": "Covers/HakuChinaDress_170101.png",
   "pmx": "TDA Qipao Haku [R18] fix.Pmx",
   "base": "https://carlutic.github.io/model1/"
  },
@@ -23,7 +23,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/IllustriousBreath",
-  "image": "Covers/IllustriousBreath.png",
+  "image": "Covers/Illustrious_170102.png",
   "pmx": "Tda HMS illustrious China Dress Ver1.00 [R18] ver.呼吸引擎.pmx",
   "base": "https://carlutic.github.io/model1/"
  }
